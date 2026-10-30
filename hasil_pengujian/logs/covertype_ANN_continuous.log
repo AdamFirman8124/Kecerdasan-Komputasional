@@ -122,3 +122,5 @@
     [selesai sebelumnya] covertype_ANN_continuous: avg_acc=0.7648
 === covertype | Covertype: 581.012 sampel, 54 fitur, 7 kelas | chunk=500 | baris=581012 | mulai ANN/continuous
     [selesai sebelumnya] covertype_ANN_continuous: avg_acc=0.7648
+=== covertype | Covertype: 581.012 sampel, 54 fitur, 7 kelas | chunk=500 | baris=581012 | mulai ANN/continuous
+    [selesai sebelumnya] covertype_ANN_continuous: avg_acc=0.7648

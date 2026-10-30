@@ -23,3 +23,5 @@
     [selesai sebelumnya] hyperplane_ARF_continuous: avg_acc=0.8440
 === hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
     [selesai sebelumnya] hyperplane_ARF_continuous: avg_acc=0.8440
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [selesai sebelumnya] hyperplane_ARF_continuous: avg_acc=0.8440

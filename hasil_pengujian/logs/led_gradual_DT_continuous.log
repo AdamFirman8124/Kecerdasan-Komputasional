@@ -25,3 +25,5 @@
     [selesai sebelumnya] led_gradual_DT_continuous: avg_acc=0.5568
 === led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
     [selesai sebelumnya] led_gradual_DT_continuous: avg_acc=0.5568
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] led_gradual_DT_continuous: avg_acc=0.5568

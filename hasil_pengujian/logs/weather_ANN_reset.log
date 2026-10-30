@@ -6,3 +6,5 @@
     [selesai sebelumnya] weather_ANN_reset: avg_acc=0.7103
 === weather | Weather BASEL: 3.654 sampel, 9 fitur, 2 kelas (picnic yes/no); 8 chunk | chunk=500 | baris=3654 | mulai ANN/reset
     [selesai sebelumnya] weather_ANN_reset: avg_acc=0.7103
+=== weather | Weather BASEL: 3.654 sampel, 9 fitur, 2 kelas (picnic yes/no); 8 chunk | chunk=500 | baris=3654 | mulai ANN/reset
+    [selesai sebelumnya] weather_ANN_reset: avg_acc=0.7103

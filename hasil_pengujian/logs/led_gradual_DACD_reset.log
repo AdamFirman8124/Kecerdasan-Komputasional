@@ -25,3 +25,5 @@
     [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721
 === led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
     [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
+    [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721

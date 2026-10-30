@@ -25,3 +25,5 @@
     [selesai sebelumnya] led_abrupt_ARF_reset: avg_acc=0.7107
 === led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
     [selesai sebelumnya] led_abrupt_ARF_reset: avg_acc=0.7107
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] led_abrupt_ARF_reset: avg_acc=0.7107

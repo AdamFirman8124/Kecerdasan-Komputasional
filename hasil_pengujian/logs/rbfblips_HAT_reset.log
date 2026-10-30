@@ -25,3 +25,5 @@
     [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569
 === rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
     [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569

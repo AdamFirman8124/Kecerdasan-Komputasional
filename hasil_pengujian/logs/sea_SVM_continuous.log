@@ -25,3 +25,5 @@
     [selesai sebelumnya] sea_SVM_continuous: avg_acc=0.8172
 === sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
     [selesai sebelumnya] sea_SVM_continuous: avg_acc=0.8172
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] sea_SVM_continuous: avg_acc=0.8172

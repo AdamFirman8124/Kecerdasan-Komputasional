@@ -15,3 +15,5 @@
     [selesai sebelumnya] electricity_ANN_continuous: avg_acc=0.6764
 === electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ANN/continuous
     [selesai sebelumnya] electricity_ANN_continuous: avg_acc=0.6764
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ANN/continuous
+    [selesai sebelumnya] electricity_ANN_continuous: avg_acc=0.6764

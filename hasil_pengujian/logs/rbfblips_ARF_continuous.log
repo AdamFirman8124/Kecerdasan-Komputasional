@@ -25,3 +25,5 @@
     [selesai sebelumnya] rbfblips_ARF_continuous: avg_acc=0.9777
 === rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
     [selesai sebelumnya] rbfblips_ARF_continuous: avg_acc=0.9777
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [selesai sebelumnya] rbfblips_ARF_continuous: avg_acc=0.9777

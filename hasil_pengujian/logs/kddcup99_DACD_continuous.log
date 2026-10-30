@@ -104,3 +104,5 @@
     [selesai sebelumnya] kddcup99_DACD_continuous: avg_acc=0.9372
 === kddcup99 | KDD Cup 1999 (10%): 494.020 sampel, 41 fitur (+one-hot), 23 kelas | chunk=500 | baris=494020 | mulai DACD/continuous
     [selesai sebelumnya] kddcup99_DACD_continuous: avg_acc=0.9372
+=== kddcup99 | KDD Cup 1999 (10%): 494.020 sampel, 41 fitur (+one-hot), 23 kelas | chunk=500 | baris=494020 | mulai DACD/continuous
+    [selesai sebelumnya] kddcup99_DACD_continuous: avg_acc=0.9372

@@ -122,3 +122,5 @@
     [selesai sebelumnya] covertype_ARF_reset: avg_acc=0.7349
 === covertype | Covertype: 581.012 sampel, 54 fitur, 7 kelas | chunk=500 | baris=581012 | mulai ARF/reset
     [selesai sebelumnya] covertype_ARF_reset: avg_acc=0.7349
+=== covertype | Covertype: 581.012 sampel, 54 fitur, 7 kelas | chunk=500 | baris=581012 | mulai ARF/reset
+    [selesai sebelumnya] covertype_ARF_reset: avg_acc=0.7349

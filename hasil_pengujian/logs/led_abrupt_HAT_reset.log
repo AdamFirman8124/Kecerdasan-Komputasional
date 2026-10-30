@@ -25,3 +25,5 @@
     [selesai sebelumnya] led_abrupt_HAT_reset: avg_acc=0.6995
 === led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
     [selesai sebelumnya] led_abrupt_HAT_reset: avg_acc=0.6995
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] led_abrupt_HAT_reset: avg_acc=0.6995

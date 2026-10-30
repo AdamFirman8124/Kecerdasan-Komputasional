@@ -25,3 +25,5 @@
     [selesai sebelumnya] tree_HAT_continuous: avg_acc=0.7602
 === tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
     [selesai sebelumnya] tree_HAT_continuous: avg_acc=0.7602
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] tree_HAT_continuous: avg_acc=0.7602
