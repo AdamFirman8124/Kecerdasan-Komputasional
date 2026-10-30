@@ -1,0 +1,27 @@
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [HAT / reset] chunk   10/200 acc=0.984 theta=0.00
+    [HAT / reset] chunk   20/200 acc=0.988 theta=0.00
+    [HAT / reset] chunk   30/200 acc=0.992 theta=0.04
+    [HAT / reset] chunk   40/200 acc=0.980 theta=0.00
+    [HAT / reset] chunk   50/200 acc=0.976 theta=0.00
+    [HAT / reset] chunk   60/200 acc=0.994 theta=0.00
+    [HAT / reset] chunk   70/200 acc=0.988 theta=1.08
+    [HAT / reset] chunk   80/200 acc=0.986 theta=1.87
+    [HAT / reset] chunk   90/200 acc=0.996 theta=0.00
+    [HAT / reset] chunk  100/200 acc=0.984 theta=0.23
+    [HAT / reset] chunk  110/200 acc=0.978 theta=0.00
+    [HAT / reset] chunk  120/200 acc=0.984 theta=1.16
+    [HAT / reset] chunk  130/200 acc=0.994 theta=1.40
+    [HAT / reset] chunk  140/200 acc=0.986 theta=0.00
+    [HAT / reset] chunk  150/200 acc=0.992 theta=0.00
+    [HAT / reset] chunk  160/200 acc=0.952 theta=2.23
+    [HAT / reset] chunk  170/200 acc=0.942 theta=0.10
+    [HAT / reset] chunk  180/200 acc=0.940 theta=0.16
+    [HAT / reset] chunk  190/200 acc=0.980 theta=0.00
+    [HAT / reset] chunk  200/200 acc=0.972 theta=0.00
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] rbfblips_HAT_reset: avg_acc=0.9569

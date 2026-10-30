@@ -1,0 +1,17 @@
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ARF/continuous
+    [ARF / continuous] chunk   10/91 acc=0.786 theta=0.00
+    [ARF / continuous] chunk   20/91 acc=0.766 theta=0.03
+    [ARF / continuous] chunk   30/91 acc=0.746 theta=0.19
+    [ARF / continuous] chunk   40/91 acc=0.808 theta=0.42
+    [ARF / continuous] chunk   50/91 acc=0.612 theta=2.89
+    [ARF / continuous] chunk   60/91 acc=0.848 theta=0.98
+    [ARF / continuous] chunk   70/91 acc=0.776 theta=2.02
+    [ARF / continuous] chunk   80/91 acc=0.908 theta=0.52
+    [ARF / continuous] chunk   90/91 acc=0.868 theta=0.00
+    [ARF / continuous] chunk   91/91 acc=0.913 theta=0.00
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ARF/continuous
+    [selesai sebelumnya] electricity_ARF_continuous: avg_acc=0.7796
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ARF/continuous
+    [selesai sebelumnya] electricity_ARF_continuous: avg_acc=0.7796
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai ARF/continuous
+    [selesai sebelumnya] electricity_ARF_continuous: avg_acc=0.7796

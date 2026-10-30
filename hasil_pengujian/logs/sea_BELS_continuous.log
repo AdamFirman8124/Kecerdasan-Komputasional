@@ -1,0 +1,27 @@
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [BELS / continuous] chunk   10/200 acc=0.880 theta=0.00
+    [BELS / continuous] chunk   20/200 acc=0.862 theta=0.00
+    [BELS / continuous] chunk   30/200 acc=0.856 theta=0.00
+    [BELS / continuous] chunk   40/200 acc=0.856 theta=0.00
+    [BELS / continuous] chunk   50/200 acc=0.854 theta=0.00
+    [BELS / continuous] chunk   60/200 acc=0.876 theta=0.00
+    [BELS / continuous] chunk   70/200 acc=0.900 theta=0.00
+    [BELS / continuous] chunk   80/200 acc=0.884 theta=0.00
+    [BELS / continuous] chunk   90/200 acc=0.878 theta=0.00
+    [BELS / continuous] chunk  100/200 acc=0.792 theta=0.79
+    [BELS / continuous] chunk  110/200 acc=0.880 theta=0.00
+    [BELS / continuous] chunk  120/200 acc=0.842 theta=0.06
+    [BELS / continuous] chunk  130/200 acc=0.872 theta=0.00
+    [BELS / continuous] chunk  140/200 acc=0.894 theta=0.00
+    [BELS / continuous] chunk  150/200 acc=0.806 theta=0.66
+    [BELS / continuous] chunk  160/200 acc=0.876 theta=0.90
+    [BELS / continuous] chunk  170/200 acc=0.882 theta=0.00
+    [BELS / continuous] chunk  180/200 acc=0.872 theta=0.00
+    [BELS / continuous] chunk  190/200 acc=0.870 theta=0.00
+    [BELS / continuous] chunk  200/200 acc=0.882 theta=0.00
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] sea_BELS_continuous: avg_acc=0.8632
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] sea_BELS_continuous: avg_acc=0.8632
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] sea_BELS_continuous: avg_acc=0.8632

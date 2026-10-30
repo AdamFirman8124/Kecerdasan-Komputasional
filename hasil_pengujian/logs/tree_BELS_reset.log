@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [BELS / reset] chunk   10/200 acc=0.586 theta=0.00
+    [BELS / reset] chunk   20/200 acc=0.578 theta=0.00
+    [BELS / reset] chunk   30/200 acc=0.558 theta=0.00
+    [BELS / reset] chunk   40/200 acc=0.588 theta=0.00
+    [BELS / reset] chunk   50/200 acc=0.584 theta=0.00
+    [BELS / reset] chunk   60/200 acc=0.536 theta=1.87
+    [BELS / reset] chunk   70/200 acc=0.558 theta=0.50
+    [BELS / reset] chunk   80/200 acc=0.538 theta=0.00
+    [BELS / reset] chunk   90/200 acc=0.510 theta=0.00
+    [BELS / reset] chunk  100/200 acc=0.538 theta=0.00
+    [BELS / reset] chunk  110/200 acc=0.480 theta=1.59
+    [BELS / reset] chunk  120/200 acc=0.540 theta=0.00
+    [BELS / reset] chunk  130/200 acc=0.538 theta=0.00
+    [BELS / reset] chunk  140/200 acc=0.474 theta=0.00
+    [BELS / reset] chunk  150/200 acc=0.496 theta=0.00
+    [BELS / reset] chunk  160/200 acc=0.534 theta=0.70
+    [BELS / reset] chunk  170/200 acc=0.496 theta=0.00
+    [BELS / reset] chunk  180/200 acc=0.544 theta=0.00
+    [BELS / reset] chunk  190/200 acc=0.506 theta=0.00
+    [BELS / reset] chunk  200/200 acc=0.564 theta=0.00
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] tree_BELS_reset: avg_acc=0.5096
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] tree_BELS_reset: avg_acc=0.5096
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] tree_BELS_reset: avg_acc=0.5096

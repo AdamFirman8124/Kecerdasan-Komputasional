@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [ANN / reset] chunk   10/200 acc=0.276 theta=0.00
+    [ANN / reset] chunk   20/200 acc=0.406 theta=0.00
+    [ANN / reset] chunk   30/200 acc=0.106 theta=1.11
+    [ANN / reset] chunk   40/200 acc=0.282 theta=0.49
+    [ANN / reset] chunk   50/200 acc=0.444 theta=0.00
+    [ANN / reset] chunk   60/200 acc=0.222 theta=0.16
+    [ANN / reset] chunk   70/200 acc=0.324 theta=0.00
+    [ANN / reset] chunk   80/200 acc=0.402 theta=0.00
+    [ANN / reset] chunk   90/200 acc=0.448 theta=0.00
+    [ANN / reset] chunk  100/200 acc=0.500 theta=0.00
+    [ANN / reset] chunk  110/200 acc=0.156 theta=2.39
+    [ANN / reset] chunk  120/200 acc=0.218 theta=2.91
+    [ANN / reset] chunk  130/200 acc=0.354 theta=1.54
+    [ANN / reset] chunk  140/200 acc=0.430 theta=0.00
+    [ANN / reset] chunk  150/200 acc=0.442 theta=0.00
+    [ANN / reset] chunk  160/200 acc=0.138 theta=1.77
+    [ANN / reset] chunk  170/200 acc=0.210 theta=1.45
+    [ANN / reset] chunk  180/200 acc=0.318 theta=0.04
+    [ANN / reset] chunk  190/200 acc=0.446 theta=0.00
+    [ANN / reset] chunk  200/200 acc=0.512 theta=0.00
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] tree_ANN_reset: avg_acc=0.3039
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] tree_ANN_reset: avg_acc=0.3039
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] tree_ANN_reset: avg_acc=0.3039

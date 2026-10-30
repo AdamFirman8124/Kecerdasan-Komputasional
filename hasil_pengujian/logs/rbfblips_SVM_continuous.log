@@ -1,0 +1,27 @@
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [SVM / continuous] chunk   10/200 acc=0.990 theta=0.00
+    [SVM / continuous] chunk   20/200 acc=0.992 theta=0.00
+    [SVM / continuous] chunk   30/200 acc=0.994 theta=0.00
+    [SVM / continuous] chunk   40/200 acc=0.994 theta=0.00
+    [SVM / continuous] chunk   50/200 acc=0.990 theta=0.00
+    [SVM / continuous] chunk   60/200 acc=0.998 theta=48.70
+    [SVM / continuous] chunk   70/200 acc=0.998 theta=35.79
+    [SVM / continuous] chunk   80/200 acc=0.994 theta=23.65
+    [SVM / continuous] chunk   90/200 acc=0.994 theta=13.99
+    [SVM / continuous] chunk  100/200 acc=0.998 theta=3.98
+    [SVM / continuous] chunk  110/200 acc=0.988 theta=57.54
+    [SVM / continuous] chunk  120/200 acc=0.986 theta=46.62
+    [SVM / continuous] chunk  130/200 acc=0.986 theta=35.45
+    [SVM / continuous] chunk  140/200 acc=0.986 theta=26.86
+    [SVM / continuous] chunk  150/200 acc=0.986 theta=19.83
+    [SVM / continuous] chunk  160/200 acc=0.988 theta=54.79
+    [SVM / continuous] chunk  170/200 acc=0.988 theta=43.23
+    [SVM / continuous] chunk  180/200 acc=0.988 theta=32.76
+    [SVM / continuous] chunk  190/200 acc=0.984 theta=25.14
+    [SVM / continuous] chunk  200/200 acc=0.982 theta=19.09
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] rbfblips_SVM_continuous: avg_acc=0.9797
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] rbfblips_SVM_continuous: avg_acc=0.9797
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] rbfblips_SVM_continuous: avg_acc=0.9797

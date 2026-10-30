@@ -1,0 +1,1 @@
+{"model": "HAT", "strategy": "reset", "chunks": 989, "avg_acc": 0.9623785425101214, "final_kappa": 0.9363429055386059, "baseline": 0.938949494949495, "threshold": 0.8920020202020202, "alarms": 28, "pde": 0.03744939271255061, "ftde": 0.07388663967611336, "rt_chunks": 1, "avg_latency_ms": 706.8980929221015}

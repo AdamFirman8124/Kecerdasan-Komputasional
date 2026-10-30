@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [ARF / reset] chunk   10/200 acc=0.742 theta=0.00
+    [ARF / reset] chunk   20/200 acc=0.754 theta=0.00
+    [ARF / reset] chunk   30/200 acc=0.734 theta=0.00
+    [ARF / reset] chunk   40/200 acc=0.746 theta=0.00
+    [ARF / reset] chunk   50/200 acc=0.774 theta=0.00
+    [ARF / reset] chunk   60/200 acc=0.606 theta=0.00
+    [ARF / reset] chunk   70/200 acc=0.648 theta=0.00
+    [ARF / reset] chunk   80/200 acc=0.632 theta=0.00
+    [ARF / reset] chunk   90/200 acc=0.542 theta=0.37
+    [ARF / reset] chunk  100/200 acc=0.666 theta=0.00
+    [ARF / reset] chunk  110/200 acc=0.618 theta=0.24
+    [ARF / reset] chunk  120/200 acc=0.670 theta=0.00
+    [ARF / reset] chunk  130/200 acc=0.724 theta=0.00
+    [ARF / reset] chunk  140/200 acc=0.706 theta=0.00
+    [ARF / reset] chunk  150/200 acc=0.764 theta=0.00
+    [ARF / reset] chunk  160/200 acc=0.596 theta=1.67
+    [ARF / reset] chunk  170/200 acc=0.574 theta=1.25
+    [ARF / reset] chunk  180/200 acc=0.600 theta=0.44
+    [ARF / reset] chunk  190/200 acc=0.692 theta=0.00
+    [ARF / reset] chunk  200/200 acc=0.732 theta=0.00
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] tree_ARF_reset: avg_acc=0.6504
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] tree_ARF_reset: avg_acc=0.6504
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] tree_ARF_reset: avg_acc=0.6504

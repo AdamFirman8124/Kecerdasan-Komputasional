@@ -1,0 +1,27 @@
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [DACD / continuous] chunk   10/200 acc=0.642 theta=0.00
+    [DACD / continuous] chunk   20/200 acc=0.774 theta=0.00
+    [DACD / continuous] chunk   30/200 acc=0.826 theta=0.00
+    [DACD / continuous] chunk   40/200 acc=0.860 theta=0.00
+    [DACD / continuous] chunk   50/200 acc=0.850 theta=0.00
+    [DACD / continuous] chunk   60/200 acc=0.866 theta=0.00
+    [DACD / continuous] chunk   70/200 acc=0.878 theta=0.00
+    [DACD / continuous] chunk   80/200 acc=0.878 theta=0.00
+    [DACD / continuous] chunk   90/200 acc=0.890 theta=0.00
+    [DACD / continuous] chunk  100/200 acc=0.818 theta=0.25
+    [DACD / continuous] chunk  110/200 acc=0.862 theta=0.29
+    [DACD / continuous] chunk  120/200 acc=0.846 theta=0.00
+    [DACD / continuous] chunk  130/200 acc=0.888 theta=0.00
+    [DACD / continuous] chunk  140/200 acc=0.900 theta=0.00
+    [DACD / continuous] chunk  150/200 acc=0.816 theta=0.53
+    [DACD / continuous] chunk  160/200 acc=0.500 theta=9.95
+    [DACD / continuous] chunk  170/200 acc=0.520 theta=19.86
+    [DACD / continuous] chunk  180/200 acc=0.532 theta=22.93
+    [DACD / continuous] chunk  190/200 acc=0.518 theta=23.40
+    [DACD / continuous] chunk  200/200 acc=0.508 theta=22.78
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] sea_DACD_continuous: avg_acc=0.7585
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] sea_DACD_continuous: avg_acc=0.7585
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] sea_DACD_continuous: avg_acc=0.7585

@@ -1,0 +1,27 @@
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [SVM / continuous] chunk   10/200 acc=0.668 theta=0.00
+    [SVM / continuous] chunk   20/200 acc=0.688 theta=0.00
+    [SVM / continuous] chunk   30/200 acc=0.656 theta=0.00
+    [SVM / continuous] chunk   40/200 acc=0.692 theta=0.00
+    [SVM / continuous] chunk   50/200 acc=0.618 theta=0.16
+    [SVM / continuous] chunk   60/200 acc=0.670 theta=0.00
+    [SVM / continuous] chunk   70/200 acc=0.688 theta=0.00
+    [SVM / continuous] chunk   80/200 acc=0.722 theta=0.00
+    [SVM / continuous] chunk   90/200 acc=0.682 theta=0.00
+    [SVM / continuous] chunk  100/200 acc=0.644 theta=0.02
+    [SVM / continuous] chunk  110/200 acc=0.658 theta=0.71
+    [SVM / continuous] chunk  120/200 acc=0.678 theta=0.00
+    [SVM / continuous] chunk  130/200 acc=0.676 theta=0.00
+    [SVM / continuous] chunk  140/200 acc=0.682 theta=0.00
+    [SVM / continuous] chunk  150/200 acc=0.740 theta=0.00
+    [SVM / continuous] chunk  160/200 acc=0.720 theta=0.00
+    [SVM / continuous] chunk  170/200 acc=0.728 theta=0.00
+    [SVM / continuous] chunk  180/200 acc=0.658 theta=0.05
+    [SVM / continuous] chunk  190/200 acc=0.700 theta=0.00
+    [SVM / continuous] chunk  200/200 acc=0.724 theta=0.00
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_abrupt_SVM_continuous: avg_acc=0.6848
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_abrupt_SVM_continuous: avg_acc=0.6848
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_abrupt_SVM_continuous: avg_acc=0.6848

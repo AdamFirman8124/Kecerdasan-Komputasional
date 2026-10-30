@@ -1,0 +1,1 @@
+{"model": "ANN", "strategy": "reset", "chunks": 91, "avg_acc": 0.6764316239316239, "final_kappa": 0.3460059086026688, "baseline": 0.454, "threshold": 0.4313, "alarms": 0, "pde": 0.03333333333333333, "ftde": 0.044444444444444446, "rt_chunks": -1, "avg_latency_ms": 34.73469230716096}

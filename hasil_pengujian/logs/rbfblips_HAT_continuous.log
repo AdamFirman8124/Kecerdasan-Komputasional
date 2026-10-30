@@ -1,0 +1,27 @@
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [HAT / continuous] chunk   10/200 acc=0.984 theta=0.00
+    [HAT / continuous] chunk   20/200 acc=0.954 theta=10.36
+    [HAT / continuous] chunk   30/200 acc=0.968 theta=10.10
+    [HAT / continuous] chunk   40/200 acc=0.968 theta=5.10
+    [HAT / continuous] chunk   50/200 acc=0.972 theta=0.73
+    [HAT / continuous] chunk   60/200 acc=0.980 theta=11.02
+    [HAT / continuous] chunk   70/200 acc=0.994 theta=3.77
+    [HAT / continuous] chunk   80/200 acc=0.976 theta=0.00
+    [HAT / continuous] chunk   90/200 acc=0.978 theta=0.00
+    [HAT / continuous] chunk  100/200 acc=0.992 theta=0.00
+    [HAT / continuous] chunk  110/200 acc=0.614 theta=25.25
+    [HAT / continuous] chunk  120/200 acc=0.946 theta=21.12
+    [HAT / continuous] chunk  130/200 acc=0.982 theta=14.56
+    [HAT / continuous] chunk  140/200 acc=0.972 theta=8.57
+    [HAT / continuous] chunk  150/200 acc=0.976 theta=5.56
+    [HAT / continuous] chunk  160/200 acc=0.954 theta=18.20
+    [HAT / continuous] chunk  170/200 acc=0.938 theta=16.20
+    [HAT / continuous] chunk  180/200 acc=0.948 theta=10.93
+    [HAT / continuous] chunk  190/200 acc=0.950 theta=7.25
+    [HAT / continuous] chunk  200/200 acc=0.968 theta=3.41
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] rbfblips_HAT_continuous: avg_acc=0.9518
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] rbfblips_HAT_continuous: avg_acc=0.9518
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] rbfblips_HAT_continuous: avg_acc=0.9518

@@ -1,0 +1,27 @@
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [BELS / reset] chunk   10/200 acc=0.666 theta=0.00
+    [BELS / reset] chunk   20/200 acc=0.644 theta=0.00
+    [BELS / reset] chunk   30/200 acc=0.652 theta=0.00
+    [BELS / reset] chunk   40/200 acc=0.672 theta=0.00
+    [BELS / reset] chunk   50/200 acc=0.386 theta=1.11
+    [BELS / reset] chunk   60/200 acc=0.712 theta=0.00
+    [BELS / reset] chunk   70/200 acc=0.684 theta=0.00
+    [BELS / reset] chunk   80/200 acc=0.700 theta=0.00
+    [BELS / reset] chunk   90/200 acc=0.686 theta=0.00
+    [BELS / reset] chunk  100/200 acc=0.462 theta=0.76
+    [BELS / reset] chunk  110/200 acc=0.670 theta=0.00
+    [BELS / reset] chunk  120/200 acc=0.652 theta=0.00
+    [BELS / reset] chunk  130/200 acc=0.666 theta=0.00
+    [BELS / reset] chunk  140/200 acc=0.648 theta=0.00
+    [BELS / reset] chunk  150/200 acc=0.428 theta=0.79
+    [BELS / reset] chunk  160/200 acc=0.668 theta=1.74
+    [BELS / reset] chunk  170/200 acc=0.664 theta=0.00
+    [BELS / reset] chunk  180/200 acc=0.630 theta=0.00
+    [BELS / reset] chunk  190/200 acc=0.678 theta=0.00
+    [BELS / reset] chunk  200/200 acc=0.668 theta=0.00
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] led_gradual_BELS_reset: avg_acc=0.6394
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] led_gradual_BELS_reset: avg_acc=0.6394
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/reset
+    [selesai sebelumnya] led_gradual_BELS_reset: avg_acc=0.6394

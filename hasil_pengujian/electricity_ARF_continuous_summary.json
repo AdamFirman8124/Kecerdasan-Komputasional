@@ -1,0 +1,1 @@
+{"model": "ARF", "strategy": "continuous", "chunks": 91, "avg_acc": 0.7796162393162392, "final_kappa": 0.5443068558421995, "baseline": 0.7874, "threshold": 0.74803, "alarms": 1, "pde": 0.18888888888888888, "ftde": 0.34444444444444444, "rt_chunks": 1, "avg_latency_ms": 1038.2261824179095}

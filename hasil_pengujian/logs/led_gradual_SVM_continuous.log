@@ -1,0 +1,27 @@
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [SVM / continuous] chunk   10/200 acc=0.668 theta=0.00
+    [SVM / continuous] chunk   20/200 acc=0.688 theta=0.00
+    [SVM / continuous] chunk   30/200 acc=0.656 theta=0.00
+    [SVM / continuous] chunk   40/200 acc=0.692 theta=0.00
+    [SVM / continuous] chunk   50/200 acc=0.400 theta=1.43
+    [SVM / continuous] chunk   60/200 acc=0.638 theta=2.46
+    [SVM / continuous] chunk   70/200 acc=0.674 theta=0.02
+    [SVM / continuous] chunk   80/200 acc=0.658 theta=0.00
+    [SVM / continuous] chunk   90/200 acc=0.704 theta=0.00
+    [SVM / continuous] chunk  100/200 acc=0.480 theta=0.82
+    [SVM / continuous] chunk  110/200 acc=0.658 theta=1.19
+    [SVM / continuous] chunk  120/200 acc=0.662 theta=0.00
+    [SVM / continuous] chunk  130/200 acc=0.706 theta=0.00
+    [SVM / continuous] chunk  140/200 acc=0.678 theta=0.00
+    [SVM / continuous] chunk  150/200 acc=0.434 theta=0.95
+    [SVM / continuous] chunk  160/200 acc=0.674 theta=0.94
+    [SVM / continuous] chunk  170/200 acc=0.702 theta=0.00
+    [SVM / continuous] chunk  180/200 acc=0.694 theta=0.00
+    [SVM / continuous] chunk  190/200 acc=0.702 theta=0.00
+    [SVM / continuous] chunk  200/200 acc=0.706 theta=0.00
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_gradual_SVM_continuous: avg_acc=0.6585
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_gradual_SVM_continuous: avg_acc=0.6585
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/continuous
+    [selesai sebelumnya] led_gradual_SVM_continuous: avg_acc=0.6585

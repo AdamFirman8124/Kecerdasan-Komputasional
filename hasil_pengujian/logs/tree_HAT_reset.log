@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [HAT / reset] chunk   10/200 acc=0.694 theta=0.00
+    [HAT / reset] chunk   20/200 acc=0.780 theta=0.00
+    [HAT / reset] chunk   30/200 acc=0.780 theta=0.00
+    [HAT / reset] chunk   40/200 acc=0.750 theta=0.00
+    [HAT / reset] chunk   50/200 acc=0.788 theta=0.00
+    [HAT / reset] chunk   60/200 acc=0.742 theta=0.00
+    [HAT / reset] chunk   70/200 acc=0.778 theta=0.00
+    [HAT / reset] chunk   80/200 acc=0.800 theta=0.00
+    [HAT / reset] chunk   90/200 acc=0.876 theta=0.00
+    [HAT / reset] chunk  100/200 acc=0.860 theta=0.00
+    [HAT / reset] chunk  110/200 acc=0.778 theta=0.00
+    [HAT / reset] chunk  120/200 acc=0.822 theta=0.00
+    [HAT / reset] chunk  130/200 acc=0.842 theta=0.00
+    [HAT / reset] chunk  140/200 acc=0.828 theta=0.00
+    [HAT / reset] chunk  150/200 acc=0.832 theta=0.00
+    [HAT / reset] chunk  160/200 acc=0.790 theta=0.00
+    [HAT / reset] chunk  170/200 acc=0.756 theta=0.00
+    [HAT / reset] chunk  180/200 acc=0.618 theta=1.63
+    [HAT / reset] chunk  190/200 acc=0.778 theta=0.00
+    [HAT / reset] chunk  200/200 acc=0.810 theta=0.00
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] tree_HAT_reset: avg_acc=0.7427
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] tree_HAT_reset: avg_acc=0.7427
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/reset
+    [selesai sebelumnya] tree_HAT_reset: avg_acc=0.7427

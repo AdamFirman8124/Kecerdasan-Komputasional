@@ -1,0 +1,27 @@
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [BELS / continuous] chunk   10/200 acc=0.666 theta=0.00
+    [BELS / continuous] chunk   20/200 acc=0.644 theta=0.00
+    [BELS / continuous] chunk   30/200 acc=0.652 theta=0.00
+    [BELS / continuous] chunk   40/200 acc=0.672 theta=0.00
+    [BELS / continuous] chunk   50/200 acc=0.610 theta=0.05
+    [BELS / continuous] chunk   60/200 acc=0.686 theta=0.00
+    [BELS / continuous] chunk   70/200 acc=0.652 theta=0.00
+    [BELS / continuous] chunk   80/200 acc=0.668 theta=0.00
+    [BELS / continuous] chunk   90/200 acc=0.644 theta=0.00
+    [BELS / continuous] chunk  100/200 acc=0.674 theta=0.00
+    [BELS / continuous] chunk  110/200 acc=0.646 theta=3.17
+    [BELS / continuous] chunk  120/200 acc=0.668 theta=0.60
+    [BELS / continuous] chunk  130/200 acc=0.674 theta=0.00
+    [BELS / continuous] chunk  140/200 acc=0.640 theta=0.00
+    [BELS / continuous] chunk  150/200 acc=0.686 theta=0.00
+    [BELS / continuous] chunk  160/200 acc=0.668 theta=0.00
+    [BELS / continuous] chunk  170/200 acc=0.660 theta=0.00
+    [BELS / continuous] chunk  180/200 acc=0.618 theta=0.07
+    [BELS / continuous] chunk  190/200 acc=0.662 theta=0.00
+    [BELS / continuous] chunk  200/200 acc=0.672 theta=0.00
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] led_abrupt_BELS_continuous: avg_acc=0.6637
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] led_abrupt_BELS_continuous: avg_acc=0.6637
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai BELS/continuous
+    [selesai sebelumnya] led_abrupt_BELS_continuous: avg_acc=0.6637

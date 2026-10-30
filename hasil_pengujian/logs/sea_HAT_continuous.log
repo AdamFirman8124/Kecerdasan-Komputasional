@@ -1,0 +1,27 @@
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [HAT / continuous] chunk   10/200 acc=0.890 theta=0.00
+    [HAT / continuous] chunk   20/200 acc=0.880 theta=0.00
+    [HAT / continuous] chunk   30/200 acc=0.856 theta=0.00
+    [HAT / continuous] chunk   40/200 acc=0.864 theta=0.00
+    [HAT / continuous] chunk   50/200 acc=0.842 theta=0.15
+    [HAT / continuous] chunk   60/200 acc=0.866 theta=0.83
+    [HAT / continuous] chunk   70/200 acc=0.888 theta=0.00
+    [HAT / continuous] chunk   80/200 acc=0.872 theta=0.00
+    [HAT / continuous] chunk   90/200 acc=0.890 theta=0.17
+    [HAT / continuous] chunk  100/200 acc=0.804 theta=0.54
+    [HAT / continuous] chunk  110/200 acc=0.886 theta=0.00
+    [HAT / continuous] chunk  120/200 acc=0.866 theta=0.00
+    [HAT / continuous] chunk  130/200 acc=0.882 theta=0.00
+    [HAT / continuous] chunk  140/200 acc=0.904 theta=0.00
+    [HAT / continuous] chunk  150/200 acc=0.812 theta=0.77
+    [HAT / continuous] chunk  160/200 acc=0.844 theta=3.69
+    [HAT / continuous] chunk  170/200 acc=0.838 theta=2.80
+    [HAT / continuous] chunk  180/200 acc=0.876 theta=0.24
+    [HAT / continuous] chunk  190/200 acc=0.876 theta=0.00
+    [HAT / continuous] chunk  200/200 acc=0.890 theta=0.00
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] sea_HAT_continuous: avg_acc=0.8653
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] sea_HAT_continuous: avg_acc=0.8653
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] sea_HAT_continuous: avg_acc=0.8653

@@ -1,0 +1,17 @@
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai BELS/continuous
+    [BELS / continuous] chunk   10/91 acc=0.848 theta=0.00
+    [BELS / continuous] chunk   20/91 acc=0.854 theta=0.00
+    [BELS / continuous] chunk   30/91 acc=0.734 theta=0.44
+    [BELS / continuous] chunk   40/91 acc=0.834 theta=5.71
+    [BELS / continuous] chunk   50/91 acc=0.692 theta=6.70
+    [BELS / continuous] chunk   60/91 acc=0.634 theta=8.62
+    [BELS / continuous] chunk   70/91 acc=0.736 theta=8.67
+    [BELS / continuous] chunk   80/91 acc=0.870 theta=5.48
+    [BELS / continuous] chunk   90/91 acc=0.846 theta=0.61
+    [BELS / continuous] chunk   91/91 acc=0.878 theta=0.02
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai BELS/continuous
+    [selesai sebelumnya] electricity_BELS_continuous: avg_acc=0.7589
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai BELS/continuous
+    [selesai sebelumnya] electricity_BELS_continuous: avg_acc=0.7589
+=== electricity | Elec2: 45.312 sampel, 7 fitur, 2 kelas (UP/DOWN) | chunk=500 | baris=45312 | mulai BELS/continuous
+    [selesai sebelumnya] electricity_BELS_continuous: avg_acc=0.7589

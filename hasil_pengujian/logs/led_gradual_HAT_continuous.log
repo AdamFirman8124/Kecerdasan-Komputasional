@@ -1,0 +1,27 @@
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [HAT / continuous] chunk   10/200 acc=0.714 theta=0.00
+    [HAT / continuous] chunk   20/200 acc=0.734 theta=0.00
+    [HAT / continuous] chunk   30/200 acc=0.734 theta=0.00
+    [HAT / continuous] chunk   40/200 acc=0.728 theta=3.10
+    [HAT / continuous] chunk   50/200 acc=0.428 theta=2.60
+    [HAT / continuous] chunk   60/200 acc=0.232 theta=11.80
+    [HAT / continuous] chunk   70/200 acc=0.724 theta=11.00
+    [HAT / continuous] chunk   80/200 acc=0.766 theta=5.06
+    [HAT / continuous] chunk   90/200 acc=0.736 theta=0.46
+    [HAT / continuous] chunk  100/200 acc=0.458 theta=2.34
+    [HAT / continuous] chunk  110/200 acc=0.756 theta=0.93
+    [HAT / continuous] chunk  120/200 acc=0.734 theta=0.00
+    [HAT / continuous] chunk  130/200 acc=0.730 theta=0.00
+    [HAT / continuous] chunk  140/200 acc=0.734 theta=1.72
+    [HAT / continuous] chunk  150/200 acc=0.494 theta=0.57
+    [HAT / continuous] chunk  160/200 acc=0.728 theta=2.99
+    [HAT / continuous] chunk  170/200 acc=0.752 theta=0.00
+    [HAT / continuous] chunk  180/200 acc=0.708 theta=0.00
+    [HAT / continuous] chunk  190/200 acc=0.710 theta=3.08
+    [HAT / continuous] chunk  200/200 acc=0.764 theta=0.00
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] led_gradual_HAT_continuous: avg_acc=0.6422
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] led_gradual_HAT_continuous: avg_acc=0.6422
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai HAT/continuous
+    [selesai sebelumnya] led_gradual_HAT_continuous: avg_acc=0.6422

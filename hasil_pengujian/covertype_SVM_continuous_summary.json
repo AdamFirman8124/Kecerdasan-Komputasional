@@ -1,0 +1,1 @@
+{"model": "SVM", "strategy": "continuous", "chunks": 1163, "avg_acc": 0.6059173838209982, "final_kappa": 0.3388303230273201, "baseline": 0.4046495726495726, "threshold": 0.38441709401709395, "alarms": 190, "pde": 0.016351118760757316, "ftde": 0.07487091222030981, "rt_chunks": 1, "avg_latency_ms": 28.1017193465654}

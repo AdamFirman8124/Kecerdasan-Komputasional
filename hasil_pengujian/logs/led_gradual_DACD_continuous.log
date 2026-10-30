@@ -1,0 +1,27 @@
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [DACD / continuous] chunk   10/200 acc=0.176 theta=0.00
+    [DACD / continuous] chunk   20/200 acc=0.316 theta=0.00
+    [DACD / continuous] chunk   30/200 acc=0.414 theta=0.00
+    [DACD / continuous] chunk   40/200 acc=0.520 theta=0.00
+    [DACD / continuous] chunk   50/200 acc=0.366 theta=0.00
+    [DACD / continuous] chunk   60/200 acc=0.158 theta=1.50
+    [DACD / continuous] chunk   70/200 acc=0.220 theta=1.86
+    [DACD / continuous] chunk   80/200 acc=0.358 theta=0.63
+    [DACD / continuous] chunk   90/200 acc=0.454 theta=0.00
+    [DACD / continuous] chunk  100/200 acc=0.462 theta=0.00
+    [DACD / continuous] chunk  110/200 acc=0.414 theta=0.00
+    [DACD / continuous] chunk  120/200 acc=0.494 theta=0.00
+    [DACD / continuous] chunk  130/200 acc=0.626 theta=0.00
+    [DACD / continuous] chunk  140/200 acc=0.638 theta=0.00
+    [DACD / continuous] chunk  150/200 acc=0.500 theta=0.00
+    [DACD / continuous] chunk  160/200 acc=0.362 theta=2.87
+    [DACD / continuous] chunk  170/200 acc=0.110 theta=6.51
+    [DACD / continuous] chunk  180/200 acc=0.112 theta=8.59
+    [DACD / continuous] chunk  190/200 acc=0.136 theta=9.12
+    [DACD / continuous] chunk  200/200 acc=0.114 theta=8.91
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] led_gradual_DACD_continuous: avg_acc=0.3438
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] led_gradual_DACD_continuous: avg_acc=0.3438
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/continuous
+    [selesai sebelumnya] led_gradual_DACD_continuous: avg_acc=0.3438

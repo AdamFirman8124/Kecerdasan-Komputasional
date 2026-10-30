@@ -1,0 +1,1 @@
+{"model": "DT", "strategy": "continuous", "chunks": 200, "avg_acc": 0.918, "final_kappa": 0.8867605261603201, "baseline": 0.9654285714285715, "threshold": 0.9171571428571429, "alarms": 175, "pde": 0.07537688442211055, "ftde": 0.22613065326633167, "rt_chunks": 1, "avg_latency_ms": 198.42759350016422}

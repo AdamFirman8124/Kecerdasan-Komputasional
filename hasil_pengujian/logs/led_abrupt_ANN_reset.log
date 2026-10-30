@@ -1,0 +1,27 @@
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [ANN / reset] chunk   10/200 acc=0.176 theta=0.00
+    [ANN / reset] chunk   20/200 acc=0.316 theta=0.00
+    [ANN / reset] chunk   30/200 acc=0.414 theta=0.00
+    [ANN / reset] chunk   40/200 acc=0.520 theta=0.00
+    [ANN / reset] chunk   50/200 acc=0.528 theta=0.00
+    [ANN / reset] chunk   60/200 acc=0.630 theta=0.00
+    [ANN / reset] chunk   70/200 acc=0.698 theta=0.00
+    [ANN / reset] chunk   80/200 acc=0.722 theta=0.00
+    [ANN / reset] chunk   90/200 acc=0.712 theta=0.00
+    [ANN / reset] chunk  100/200 acc=0.742 theta=0.00
+    [ANN / reset] chunk  110/200 acc=0.120 theta=0.00
+    [ANN / reset] chunk  120/200 acc=0.236 theta=0.00
+    [ANN / reset] chunk  130/200 acc=0.354 theta=0.00
+    [ANN / reset] chunk  140/200 acc=0.426 theta=0.00
+    [ANN / reset] chunk  150/200 acc=0.546 theta=0.00
+    [ANN / reset] chunk  160/200 acc=0.588 theta=0.00
+    [ANN / reset] chunk  170/200 acc=0.698 theta=0.00
+    [ANN / reset] chunk  180/200 acc=0.656 theta=0.00
+    [ANN / reset] chunk  190/200 acc=0.734 theta=0.00
+    [ANN / reset] chunk  200/200 acc=0.710 theta=0.00
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] led_abrupt_ANN_reset: avg_acc=0.5028
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] led_abrupt_ANN_reset: avg_acc=0.5028
+=== led_abrupt | LED_abrupt (MOA): abrupt drift di 50%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai ANN/reset
+    [selesai sebelumnya] led_abrupt_ANN_reset: avg_acc=0.5028

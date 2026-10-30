@@ -1,0 +1,27 @@
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DT/reset
+    [DT / reset] chunk   10/200 acc=0.810 theta=1.49
+    [DT / reset] chunk   20/200 acc=0.858 theta=0.00
+    [DT / reset] chunk   30/200 acc=0.870 theta=0.00
+    [DT / reset] chunk   40/200 acc=0.876 theta=0.00
+    [DT / reset] chunk   50/200 acc=0.872 theta=0.00
+    [DT / reset] chunk   60/200 acc=0.876 theta=0.00
+    [DT / reset] chunk   70/200 acc=0.872 theta=0.00
+    [DT / reset] chunk   80/200 acc=0.878 theta=0.00
+    [DT / reset] chunk   90/200 acc=0.894 theta=0.00
+    [DT / reset] chunk  100/200 acc=0.876 theta=0.00
+    [DT / reset] chunk  110/200 acc=0.850 theta=0.25
+    [DT / reset] chunk  120/200 acc=0.822 theta=0.66
+    [DT / reset] chunk  130/200 acc=0.816 theta=1.24
+    [DT / reset] chunk  140/200 acc=0.842 theta=0.53
+    [DT / reset] chunk  150/200 acc=0.838 theta=0.74
+    [DT / reset] chunk  160/200 acc=0.856 theta=0.00
+    [DT / reset] chunk  170/200 acc=0.880 theta=0.00
+    [DT / reset] chunk  180/200 acc=0.856 theta=0.00
+    [DT / reset] chunk  190/200 acc=0.898 theta=0.00
+    [DT / reset] chunk  200/200 acc=0.884 theta=0.00
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DT/reset
+    [selesai sebelumnya] hyperplane_DT_reset: avg_acc=0.8674
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DT/reset
+    [selesai sebelumnya] hyperplane_DT_reset: avg_acc=0.8674
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai DT/reset
+    [selesai sebelumnya] hyperplane_DT_reset: avg_acc=0.8674

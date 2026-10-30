@@ -1,0 +1,27 @@
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
+    [DACD / reset] chunk   10/200 acc=0.176 theta=0.00
+    [DACD / reset] chunk   20/200 acc=0.316 theta=0.00
+    [DACD / reset] chunk   30/200 acc=0.414 theta=0.00
+    [DACD / reset] chunk   40/200 acc=0.520 theta=0.00
+    [DACD / reset] chunk   50/200 acc=0.366 theta=0.00
+    [DACD / reset] chunk   60/200 acc=0.158 theta=1.50
+    [DACD / reset] chunk   70/200 acc=0.220 theta=1.86
+    [DACD / reset] chunk   80/200 acc=0.358 theta=0.63
+    [DACD / reset] chunk   90/200 acc=0.454 theta=0.00
+    [DACD / reset] chunk  100/200 acc=0.462 theta=0.00
+    [DACD / reset] chunk  110/200 acc=0.414 theta=0.00
+    [DACD / reset] chunk  120/200 acc=0.494 theta=0.00
+    [DACD / reset] chunk  130/200 acc=0.626 theta=0.00
+    [DACD / reset] chunk  140/200 acc=0.638 theta=0.00
+    [DACD / reset] chunk  150/200 acc=0.500 theta=0.00
+    [DACD / reset] chunk  160/200 acc=0.362 theta=2.87
+    [DACD / reset] chunk  170/200 acc=0.144 theta=0.00
+    [DACD / reset] chunk  180/200 acc=0.224 theta=0.00
+    [DACD / reset] chunk  190/200 acc=0.382 theta=0.00
+    [DACD / reset] chunk  200/200 acc=0.436 theta=0.00
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
+    [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
+    [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721
+=== led_gradual | LED_gradual (MOA): gradual drift 25/50/75%, 100.000 baris, 24 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DACD/reset
+    [selesai sebelumnya] led_gradual_DACD_reset: avg_acc=0.3721

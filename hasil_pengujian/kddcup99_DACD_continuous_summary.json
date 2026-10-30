@@ -1,0 +1,1 @@
+{"model": "DACD", "strategy": "continuous", "chunks": 989, "avg_acc": 0.9372206477732793, "final_kappa": 0.8948043960213086, "baseline": 0.9996969696969696, "threshold": 0.9497121212121211, "alarms": 600, "pde": 0.04554655870445344, "ftde": 0.12348178137651822, "rt_chunks": 1, "avg_latency_ms": 244.66705955529957}

@@ -1,0 +1,25 @@
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [ARF / reset] chunk   10/200 acc=0.812 theta=0.00
+    [ARF / reset] chunk   20/200 acc=0.816 theta=0.00
+    [ARF / reset] chunk   30/200 acc=0.822 theta=0.00
+    [ARF / reset] chunk   40/200 acc=0.876 theta=0.00
+    [ARF / reset] chunk   50/200 acc=0.838 theta=0.00
+    [ARF / reset] chunk   60/200 acc=0.852 theta=0.00
+    [ARF / reset] chunk   70/200 acc=0.856 theta=0.00
+    [ARF / reset] chunk   80/200 acc=0.852 theta=0.00
+    [ARF / reset] chunk   90/200 acc=0.866 theta=0.00
+    [ARF / reset] chunk  100/200 acc=0.840 theta=0.00
+    [ARF / reset] chunk  110/200 acc=0.848 theta=0.03
+    [ARF / reset] chunk  120/200 acc=0.814 theta=0.12
+    [ARF / reset] chunk  130/200 acc=0.806 theta=0.20
+    [ARF / reset] chunk  140/200 acc=0.818 theta=0.05
+    [ARF / reset] chunk  150/200 acc=0.816 theta=0.08
+    [ARF / reset] chunk  180/200 acc=0.854 theta=0.00
+    [ARF / reset] chunk  190/200 acc=0.880 theta=0.00
+    [ARF / reset] chunk  200/200 acc=0.850 theta=0.00
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] hyperplane_ARF_reset: avg_acc=0.8440
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] hyperplane_ARF_reset: avg_acc=0.8440
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] hyperplane_ARF_reset: avg_acc=0.8440

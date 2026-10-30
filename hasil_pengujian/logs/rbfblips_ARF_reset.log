@@ -1,0 +1,27 @@
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [ARF / reset] chunk   10/200 acc=0.970 theta=0.04
+    [ARF / reset] chunk   20/200 acc=0.996 theta=0.00
+    [ARF / reset] chunk   30/200 acc=0.996 theta=0.00
+    [ARF / reset] chunk   40/200 acc=0.990 theta=0.00
+    [ARF / reset] chunk   50/200 acc=0.994 theta=0.00
+    [ARF / reset] chunk   60/200 acc=0.998 theta=0.00
+    [ARF / reset] chunk   70/200 acc=1.000 theta=0.00
+    [ARF / reset] chunk   80/200 acc=0.994 theta=0.19
+    [ARF / reset] chunk   90/200 acc=0.996 theta=0.00
+    [ARF / reset] chunk  100/200 acc=0.996 theta=0.00
+    [ARF / reset] chunk  110/200 acc=0.982 theta=0.00
+    [ARF / reset] chunk  120/200 acc=0.982 theta=0.00
+    [ARF / reset] chunk  130/200 acc=0.994 theta=0.00
+    [ARF / reset] chunk  140/200 acc=0.982 theta=0.00
+    [ARF / reset] chunk  150/200 acc=0.986 theta=0.00
+    [ARF / reset] chunk  160/200 acc=0.980 theta=0.00
+    [ARF / reset] chunk  170/200 acc=0.990 theta=0.00
+    [ARF / reset] chunk  180/200 acc=0.982 theta=0.00
+    [ARF / reset] chunk  190/200 acc=0.976 theta=0.15
+    [ARF / reset] chunk  200/200 acc=0.988 theta=0.00
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] rbfblips_ARF_reset: avg_acc=0.9766
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] rbfblips_ARF_reset: avg_acc=0.9766
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai ARF/reset
+    [selesai sebelumnya] rbfblips_ARF_reset: avg_acc=0.9766

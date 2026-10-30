@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [DT / continuous] chunk   10/200 acc=0.674 theta=0.00
+    [DT / continuous] chunk   20/200 acc=0.776 theta=0.00
+    [DT / continuous] chunk   30/200 acc=0.760 theta=0.00
+    [DT / continuous] chunk   40/200 acc=0.756 theta=0.00
+    [DT / continuous] chunk   50/200 acc=0.778 theta=0.00
+    [DT / continuous] chunk   60/200 acc=0.138 theta=14.01
+    [DT / continuous] chunk   70/200 acc=0.178 theta=18.64
+    [DT / continuous] chunk   80/200 acc=0.544 theta=17.34
+    [DT / continuous] chunk   90/200 acc=0.556 theta=11.86
+    [DT / continuous] chunk  100/200 acc=0.730 theta=6.17
+    [DT / continuous] chunk  110/200 acc=0.352 theta=9.57
+    [DT / continuous] chunk  120/200 acc=0.422 theta=8.35
+    [DT / continuous] chunk  130/200 acc=0.604 theta=4.63
+    [DT / continuous] chunk  140/200 acc=0.652 theta=0.57
+    [DT / continuous] chunk  150/200 acc=0.650 theta=0.00
+    [DT / continuous] chunk  160/200 acc=0.110 theta=6.47
+    [DT / continuous] chunk  170/200 acc=0.200 theta=8.44
+    [DT / continuous] chunk  180/200 acc=0.266 theta=8.27
+    [DT / continuous] chunk  190/200 acc=0.368 theta=6.50
+    [DT / continuous] chunk  200/200 acc=0.432 theta=3.82
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] tree_DT_continuous: avg_acc=0.4571
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] tree_DT_continuous: avg_acc=0.4571
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] tree_DT_continuous: avg_acc=0.4571

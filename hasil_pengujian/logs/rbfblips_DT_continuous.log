@@ -1,0 +1,27 @@
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [DT / continuous] chunk   10/200 acc=0.984 theta=0.00
+    [DT / continuous] chunk   20/200 acc=0.984 theta=6.55
+    [DT / continuous] chunk   30/200 acc=0.970 theta=6.06
+    [DT / continuous] chunk   40/200 acc=0.972 theta=6.34
+    [DT / continuous] chunk   50/200 acc=0.966 theta=6.92
+    [DT / continuous] chunk   60/200 acc=0.940 theta=28.90
+    [DT / continuous] chunk   70/200 acc=0.926 theta=24.97
+    [DT / continuous] chunk   80/200 acc=0.942 theta=19.65
+    [DT / continuous] chunk   90/200 acc=0.940 theta=15.41
+    [DT / continuous] chunk  100/200 acc=0.934 theta=12.64
+    [DT / continuous] chunk  110/200 acc=0.904 theta=31.51
+    [DT / continuous] chunk  120/200 acc=0.930 theta=23.82
+    [DT / continuous] chunk  130/200 acc=0.954 theta=15.71
+    [DT / continuous] chunk  140/200 acc=0.946 theta=9.91
+    [DT / continuous] chunk  150/200 acc=0.946 theta=5.22
+    [DT / continuous] chunk  160/200 acc=0.906 theta=12.90
+    [DT / continuous] chunk  170/200 acc=0.896 theta=10.23
+    [DT / continuous] chunk  180/200 acc=0.914 theta=7.29
+    [DT / continuous] chunk  190/200 acc=0.912 theta=3.09
+    [DT / continuous] chunk  200/200 acc=0.942 theta=0.00
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] rbfblips_DT_continuous: avg_acc=0.9180
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] rbfblips_DT_continuous: avg_acc=0.9180
+=== rbfblips | RBFBlips (MOA): abrupt drift 25/50/75%, 100.000 baris, 20 fitur, 4 kelas | chunk=500 | baris=100000 | mulai DT/continuous
+    [selesai sebelumnya] rbfblips_DT_continuous: avg_acc=0.9180

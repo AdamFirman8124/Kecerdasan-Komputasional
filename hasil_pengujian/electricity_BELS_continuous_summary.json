@@ -1,0 +1,1 @@
+{"model": "BELS", "strategy": "continuous", "chunks": 91, "avg_acc": 0.7589356125356125, "final_kappa": 0.49447572285151065, "baseline": 0.8221999999999999, "threshold": 0.78109, "alarms": 48, "pde": 0.16666666666666666, "ftde": 0.4888888888888889, "rt_chunks": 4, "avg_latency_ms": 27.083860439053932}

@@ -1,0 +1,27 @@
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [SVM / reset] chunk   10/200 acc=0.632 theta=0.00
+    [SVM / reset] chunk   20/200 acc=0.624 theta=0.00
+    [SVM / reset] chunk   30/200 acc=0.584 theta=0.00
+    [SVM / reset] chunk   40/200 acc=0.550 theta=0.00
+    [SVM / reset] chunk   50/200 acc=0.628 theta=0.00
+    [SVM / reset] chunk   60/200 acc=0.582 theta=0.66
+    [SVM / reset] chunk   70/200 acc=0.590 theta=0.00
+    [SVM / reset] chunk   80/200 acc=0.534 theta=0.00
+    [SVM / reset] chunk   90/200 acc=0.522 theta=0.00
+    [SVM / reset] chunk  100/200 acc=0.596 theta=0.00
+    [SVM / reset] chunk  110/200 acc=0.498 theta=0.73
+    [SVM / reset] chunk  120/200 acc=0.540 theta=0.00
+    [SVM / reset] chunk  130/200 acc=0.490 theta=0.00
+    [SVM / reset] chunk  140/200 acc=0.568 theta=0.00
+    [SVM / reset] chunk  150/200 acc=0.494 theta=0.00
+    [SVM / reset] chunk  160/200 acc=0.568 theta=0.00
+    [SVM / reset] chunk  170/200 acc=0.570 theta=0.00
+    [SVM / reset] chunk  180/200 acc=0.560 theta=0.00
+    [SVM / reset] chunk  190/200 acc=0.610 theta=0.00
+    [SVM / reset] chunk  200/200 acc=0.564 theta=0.00
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] tree_SVM_reset: avg_acc=0.5528
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] tree_SVM_reset: avg_acc=0.5528
+=== tree | Tree (MOA): abrupt drift 25/50/75%, 100.000 baris, 30 fitur, 10 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] tree_SVM_reset: avg_acc=0.5528

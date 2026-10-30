@@ -1,0 +1,27 @@
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [ARF / continuous] chunk   10/200 acc=0.886 theta=0.00
+    [ARF / continuous] chunk   20/200 acc=0.892 theta=0.00
+    [ARF / continuous] chunk   30/200 acc=0.872 theta=0.01
+    [ARF / continuous] chunk   40/200 acc=0.880 theta=0.00
+    [ARF / continuous] chunk   50/200 acc=0.864 theta=0.10
+    [ARF / continuous] chunk   60/200 acc=0.860 theta=1.49
+    [ARF / continuous] chunk   70/200 acc=0.904 theta=0.59
+    [ARF / continuous] chunk   80/200 acc=0.880 theta=0.00
+    [ARF / continuous] chunk   90/200 acc=0.902 theta=0.00
+    [ARF / continuous] chunk  100/200 acc=0.822 theta=0.71
+    [ARF / continuous] chunk  110/200 acc=0.898 theta=0.00
+    [ARF / continuous] chunk  120/200 acc=0.876 theta=0.00
+    [ARF / continuous] chunk  130/200 acc=0.904 theta=0.00
+    [ARF / continuous] chunk  140/200 acc=0.916 theta=0.00
+    [ARF / continuous] chunk  150/200 acc=0.822 theta=1.01
+    [ARF / continuous] chunk  160/200 acc=0.880 theta=1.95
+    [ARF / continuous] chunk  170/200 acc=0.876 theta=0.95
+    [ARF / continuous] chunk  180/200 acc=0.884 theta=0.00
+    [ARF / continuous] chunk  190/200 acc=0.880 theta=0.00
+    [ARF / continuous] chunk  200/200 acc=0.896 theta=0.00
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [selesai sebelumnya] sea_ARF_continuous: avg_acc=0.8807
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [selesai sebelumnya] sea_ARF_continuous: avg_acc=0.8807
+=== sea | SEA (MOA): gradual drift 25/50/75%, 100.000 baris, 3 fitur, 2 kelas | chunk=500 | baris=100000 | mulai ARF/continuous
+    [selesai sebelumnya] sea_ARF_continuous: avg_acc=0.8807

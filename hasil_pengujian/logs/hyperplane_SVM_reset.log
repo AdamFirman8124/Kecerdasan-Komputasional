@@ -1,0 +1,27 @@
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [SVM / reset] chunk   10/200 acc=0.852 theta=0.00
+    [SVM / reset] chunk   20/200 acc=0.796 theta=0.00
+    [SVM / reset] chunk   30/200 acc=0.796 theta=0.08
+    [SVM / reset] chunk   40/200 acc=0.866 theta=0.35
+    [SVM / reset] chunk   50/200 acc=0.868 theta=0.00
+    [SVM / reset] chunk   60/200 acc=0.846 theta=0.00
+    [SVM / reset] chunk   70/200 acc=0.880 theta=0.00
+    [SVM / reset] chunk   80/200 acc=0.920 theta=0.00
+    [SVM / reset] chunk   90/200 acc=0.834 theta=0.02
+    [SVM / reset] chunk  100/200 acc=0.822 theta=0.16
+    [SVM / reset] chunk  110/200 acc=0.856 theta=0.00
+    [SVM / reset] chunk  120/200 acc=0.862 theta=0.00
+    [SVM / reset] chunk  130/200 acc=0.858 theta=0.21
+    [SVM / reset] chunk  140/200 acc=0.910 theta=0.00
+    [SVM / reset] chunk  150/200 acc=0.930 theta=0.00
+    [SVM / reset] chunk  160/200 acc=0.882 theta=0.01
+    [SVM / reset] chunk  170/200 acc=0.902 theta=0.00
+    [SVM / reset] chunk  180/200 acc=0.890 theta=0.00
+    [SVM / reset] chunk  190/200 acc=0.880 theta=0.00
+    [SVM / reset] chunk  200/200 acc=0.898 theta=0.00
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] hyperplane_SVM_reset: avg_acc=0.8653
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] hyperplane_SVM_reset: avg_acc=0.8653
+=== hyperplane | Hyperplane (MOA): incremental drift t=0.001, 100.000 baris, 10 fitur, 2 kelas | chunk=500 | baris=100000 | mulai SVM/reset
+    [selesai sebelumnya] hyperplane_SVM_reset: avg_acc=0.8653
